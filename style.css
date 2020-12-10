@@ -4,6 +4,7 @@ body {
     color: #333333;
     margin: 0;
     padding: 0;
+    line-height: 150%;
 }
 
 header {
@@ -43,3 +44,4 @@ h2 {
 #contact-info {
     width: 30%;
 }
+

@@ -24,7 +24,7 @@ h2 {
 }
 
 .container {
-    width: 1024px;
+    width: 100vw;
     margin: 0 auto;
 }
 
